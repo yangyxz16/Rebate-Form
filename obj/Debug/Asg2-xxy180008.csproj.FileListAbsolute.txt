@@ -1,0 +1,9 @@
+C:\Users\yangy\source\repos\Asg2-xxy180008\bin\Debug\Asg2-xxy180008.exe.config
+C:\Users\yangy\source\repos\Asg2-xxy180008\bin\Debug\Asg2-xxy180008.exe
+C:\Users\yangy\source\repos\Asg2-xxy180008\bin\Debug\Asg2-xxy180008.pdb
+C:\Users\yangy\source\repos\Asg2-xxy180008\obj\Debug\Asg2_xxy180008.Form1.resources
+C:\Users\yangy\source\repos\Asg2-xxy180008\obj\Debug\Asg2_xxy180008.Properties.Resources.resources
+C:\Users\yangy\source\repos\Asg2-xxy180008\obj\Debug\Asg2-xxy180008.csproj.GenerateResource.cache
+C:\Users\yangy\source\repos\Asg2-xxy180008\obj\Debug\Asg2-xxy180008.exe
+C:\Users\yangy\source\repos\Asg2-xxy180008\obj\Debug\Asg2-xxy180008.pdb
+C:\Users\yangy\source\repos\Asg2-xxy180008\obj\Debug\Asg2-xxy180008.csprojAssemblyReference.cache
